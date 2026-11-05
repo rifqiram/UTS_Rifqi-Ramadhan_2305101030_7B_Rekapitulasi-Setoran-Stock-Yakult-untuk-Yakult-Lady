@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">Yakult Stock</string>
+
+    <!-- Header -->
+    <string name="app_title">Yakult Stock</string>
+
+    <!-- Greeting -->
+    <string name="greeting_heading">Selamat Datang!</string>
+    <string name="greeting_subtitle">Kelola penerimaan stok Yakult dengan mudah</string>
+
+    <!-- Monthly summary -->
+    <string name="summary_title">Ringkasan Bulan Ini</string>
+    <string name="summary_month">Oktober 2026</string>
+    <string name="summary_bottles">8.450</string>
+    <string name="summary_unit">Botol</string>
+    <string name="summary_deliveries">9 Kali Penerimaan</string>
+
+    <!-- Primary action -->
+    <string name="btn_add">+ Tambah Penerimaan</string>
+
+    <!-- Recent receipts section -->
+    <string name="recent_title">Penerimaan Terakhir</string>
+    <string name="recent_see_all">Lihat semua</string>
+    <string name="recent_caption">3 dari 9 penerimaan · Data contoh</string>
+
+    <!-- Receipt items -->
+    <string name="receipt_date_1">10 Okt 2026</string>
+    <string name="receipt_qty_1">1.000 Botol</string>
+    <string name="receipt_qty_num_1">1.000</string>
+
+    <string name="receipt_date_2">09 Okt 2026</string>
+    <string name="receipt_qty_2">950 Botol</string>
+    <string name="receipt_qty_num_2">950</string>
+
+    <string name="receipt_date_3">08 Okt 2026</string>
+    <string name="receipt_qty_3">900 Botol</string>
+    <string name="receipt_qty_num_3">900</string>
+
+    <string name="unit_botol">Botol</string>
+
+    <!-- Bottom navigation -->
+    <string name="nav_beranda">Beranda</string>
+    <string name="nav_riwayat">Riwayat</string>
+    <string name="nav_bantuan">Bantuan</string>
+
+    <!-- Toast messages -->
+    <string name="toast_tambah">Halaman Tambah Penerimaan akan segera hadir</string>
+    <string name="toast_lihat_semua">Halaman Riwayat akan segera hadir</string>
+    <string name="toast_riwayat">Halaman Riwayat akan segera hadir</string>
+    <string name="toast_bantuan">Halaman Bantuan akan segera hadir</string>
+
+    <!-- Tambah Penerimaan screen -->
+    <string name="tambah_penerimaan_title">Tambah Penerimaan</string>
+    <string name="tambah_penerimaan_subtitle">Catat stok Yakult berdasarkan varian</string>
+    <string name="label_tanggal_penerimaan">Tanggal penerimaan</string>
+    <string name="label_jumlah_produk">Jumlah Produk Diterima</string>
+    <string name="variant_original">Yakult Original</string>
+    <string name="variant_mangga">Yakult Mangga</string>
+    <string name="variant_less_sugar">Yakult Less Sugar</string>
+    <string name="variant_strawberry">Yakult Strawberry</string>
+    <string name="helper_validation">Boleh diisi 0. Minimal satu varian harus lebih dari 0.</string>
+    <string name="total_penerimaan">Total Penerimaan</string>
+    <string name="btn_simpan_penerimaan">Simpan Penerimaan</string>
+    <string name="btn_batal">Batal</string>
+    <string name="toast_save_success">Penerimaan berhasil disimpan</string>
+
+    <!-- Riwayat Penerimaan screen -->
+    <string name="riwayat_penerimaan_title">Riwayat Penerimaan</string>
+    <string name="riwayat_penerimaan_subtitle">Daftar stok Yakult yang diterima</string>
+    <string name="btn_lihat_detail">Lihat Detail</string>
+    <string name="toast_lihat_detail">Membuka detail penerimaan</string>
+</resources>

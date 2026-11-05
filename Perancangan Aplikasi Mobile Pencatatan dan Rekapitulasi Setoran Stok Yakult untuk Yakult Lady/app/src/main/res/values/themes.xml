@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.Yakult" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/yakult_red</item>
+        <item name="colorPrimaryVariant">@color/yakult_red_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="android:statusBarColor">@color/bg_light</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:navigationBarColor">@color/nav_bar_bg</item>
+        <item name="android:windowLightNavigationBar" tools:targetApi="27">true</item>
+        <item name="android:windowBackground">@color/bg_light</item>
+    </style>
+</resources>

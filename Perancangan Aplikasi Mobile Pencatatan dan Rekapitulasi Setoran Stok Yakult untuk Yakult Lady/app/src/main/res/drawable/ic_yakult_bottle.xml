@@ -1,0 +1,23 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- Yakult bottle silhouette (simplified) -->
+    <!-- Cap -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M9.5,2 L14.5,2 C15.05,2 15.5,2.45 15.5,3 L15.5,5 C15.5,5.55 15.05,6 14.5,6 L9.5,6 C8.95,6 8.5,5.55 8.5,5 L8.5,3 C8.5,2.45 8.95,2 9.5,2 Z"/>
+    <!-- Neck -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M10,6 L14,6 L14,8 L10,8 Z"/>
+    <!-- Shoulder curve -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M8,8 Q7,9 7,10.5 L7,19 C7,20.1 7.9,21 9,21 L15,21 C16.1,21 17,20.1 17,19 L17,10.5 Q17,9 16,8 Z"/>
+    <!-- Label line detail -->
+    <path
+        android:fillColor="#DC2626"
+        android:pathData="M8.5,13 L15.5,13 L15.5,14 L8.5,14 Z"/>
+</vector>
